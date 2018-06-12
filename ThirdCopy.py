@@ -15,6 +15,9 @@ the linear approximation.
 The coefficients, the residual sum of squares and the variance score are also
 calculated.
 
+Note*
+You have to install libraries by using pip install "library name"
+
 """
 print(__doc__)
 
